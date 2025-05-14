@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img align="right" height="200" src="[https://github.com/AbhinavChaudhary11/AbhinavChaudhary11/blob/main/ChatGPT%20Image%20May%2014%2C%202025%2C%2011_58_29%20AM.png](https://github.com/AbhinavChaudhary11/AbhinavChaudhary11/blob/main/readme.png)"  />
+<img align="right" height="200" src="https://github.com/AbhinavChaudhary11/AbhinavChaudhary11/blob/main/readme.png"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
