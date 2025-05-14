@@ -4,13 +4,9 @@
   <h2>I'm a full-stack developer who loves turning ideas into real-world web and mobile apps. I work mainly with the MERN stack and am interested in Android development and machine learning.</h2>
 </p>
 
-<br><br> <!-- Added extra line breaks for spacing -->
+<br><br>
 
-###
-
-<img align="right" height="150" src="https://github.com/AbhinavChaudhary11/AbhinavChaudhary11/blob/main/ChatGPT%20Image%20May%2014%2C%202025%2C%2011_58_29%20AM.png"  />
-
-###
+<img align="right" height="200" src="https://github.com/AbhinavChaudhary11/AbhinavChaudhary11/blob/main/ChatGPT%20Image%20May%2014%2C%202025%2C%2011_58_29%20AM.png"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,11 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
 
-###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/abhinav-chaudhary-59a326340/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
+  </a>
 </div>
