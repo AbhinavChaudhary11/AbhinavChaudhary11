@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Abhinav!</h2>
+<h1 align="left">Hi 👋! My name is Abhinav!</h1>
+
+<p align="left">
+  <h2>I'm a full-stack developer who loves turning ideas into real-world web and mobile apps. I work mainly with the MERN stack and am interested in Android development and machine learning.</h2>
+</p>
+
+<br><br> <!-- Added extra line breaks for spacing -->
 
 ###
 
@@ -42,5 +48,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
