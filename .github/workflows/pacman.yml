@@ -1,0 +1,26 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pac-Man graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AbhinavChaudhary11
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Push files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update pacman graph"
+          add: "output/*"
