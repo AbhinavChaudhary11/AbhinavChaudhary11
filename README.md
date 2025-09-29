@@ -1,37 +1,61 @@
-<table>
-<tr>
-<td width="250">
-  <img src="https://github.com/AbhinavChaudhary11/AbhinavChaudhary11/blob/main/readme.png" width="250" alt="Abhinav's Banner"/>
-</td>
-<td>
-  <h1>👋 Hi! I'm Abhinav</h1>
-  <h3>I'm a full-stack developer who loves turning ideas into real-world web and mobile apps.<br>
-  I mainly work with the MERN stack and am interested in Android development and machine learning.</h3>
-</td>
-</tr>
-</table>
+<div align="right">
+  <a style="text-decoration: none" target="_blank" href="https://github.com/AbhinavChaudhary11">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhinavChaudhary11.AbhinavChaudhary11&left_color=gray&right_color=blue&left_text=Profile%20Visitors">
+  </a>
+  <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/abhinav-chaudhary-11-/">
+    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Abhinav+Chaudhary!;" />
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+<h2>📖 | About me</h2> 
+I'm Abhinav – a full-stack developer passionate about building real-world web and mobile apps. I mainly work with the **MERN stack** and I’m also exploring **Android development** and **machine learning**.  
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+<h2>🔥 | My contribution streak</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavChaudhary11#version3"/>
+  </a>
 </p>
 
----
+<h2>⭐ | Github Stats</h2>
+<div align="center">
+  <a href="https://github.com/AbhinavChaudhary11">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavChaudhary11&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavChaudhary11&layout=compact&langs_count=7&theme=default"/>
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/abhinav-chaudhary-11-/)
+<h2>🛠️ | Languages, Frameworks, and Tools</h2>
+<table>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwindcss"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Dev Tools:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,figma,androidstudio"/></td>
+  </tr>
+</table>
+<br>
 
+------
+
+**Credits :** [Original Template by codediaz](https://github.com/codediaz)
