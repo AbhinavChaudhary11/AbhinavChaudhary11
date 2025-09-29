@@ -20,12 +20,7 @@ I'm Abhinav – a full-stack developer passionate about building real-world web 
   <br/>
 </div>
 
-<h2>🔥 | My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavChaudhary11#version3"/>
-  </a>
-</p>
+
 
 <h2>⭐ | Github Stats</h2>
 <div align="center">
