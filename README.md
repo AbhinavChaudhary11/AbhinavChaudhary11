@@ -2,9 +2,6 @@
   <a style="text-decoration: none" target="_blank" href="https://github.com/AbhinavChaudhary11">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhinavChaudhary11.AbhinavChaudhary11&left_color=gray&right_color=blue&left_text=Profile%20Visitors">
   </a>
-  <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/abhinav-chaudhary-11-/">
-    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-  </a>
 </div>
 
 <br>
@@ -19,8 +16,6 @@ I'm Abhinav – a full-stack developer passionate about building real-world web 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
-
 
 <h2>⭐ | Github Stats</h2>
 <div align="center">
@@ -51,6 +46,17 @@ I'm Abhinav – a full-stack developer passionate about building real-world web 
 </table>
 <br>
 
+<h2>🤝 | Connect with Me</h2>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhinav-chaudhary-11-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://portfolio-website-omega-ashen-64.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
 ------
-
-
