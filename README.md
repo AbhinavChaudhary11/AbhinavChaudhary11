@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Abhinav+Chaudhary!;" />
 
 <h2>📖 | About me</h2> 
-I'm Abhinav – a full-stack developer passionate about building real-world web and mobile apps. I mainly work with the **MERN stack** and I’m also exploring **Android development** and **machine learning**.  
+I'm Abhinav – a full-stack developer passionate about building real-world web and mobile apps. I mainly work with the MERN Stack and I’m also exploring Android development and machine learning.  
 
 <div align="center">
   <br>
@@ -58,4 +58,4 @@ I'm Abhinav – a full-stack developer passionate about building real-world web 
 
 ------
 
-**Credits :** [Original Template by codediaz](https://github.com/codediaz)
+
