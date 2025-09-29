@@ -11,6 +11,19 @@
 <h2>📖 | About me</h2> 
 I'm Abhinav – a full-stack developer passionate about building real-world web and mobile apps. I mainly work with the MERN Stack and I’m also exploring Android development and machine learning.  
 
+<h2>🤝 | Connect with Me</h2>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhinav-chaudhary-11-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://portfolio-website-omega-ashen-64.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
@@ -45,18 +58,3 @@ I'm Abhinav – a full-stack developer passionate about building real-world web 
   </tr>
 </table>
 <br>
-
-<h2>🤝 | Connect with Me</h2>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abhinav-chaudhary-11-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://portfolio-website-omega-ashen-64.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
-------
