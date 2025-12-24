@@ -32,12 +32,6 @@ I'm Abhinav – a full-stack developer passionate about building real-world web 
 </picture>
 </div>
 
-<h2>⭐ | Github Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavChaudhary11&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavChaudhary11&layout=compact&theme=tokyonight"/>
-</div>
-
 <h2>🛠️ | Languages, Frameworks, and Tools</h2>
 <table>
   <tr>
